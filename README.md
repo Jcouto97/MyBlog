@@ -2,7 +2,7 @@
 
 **SUMMARY:**
 
-A very simple blogging app built to experiment with Node.js and Express framework. Development wasn't focused on styling but in learning basic Node.js rounting implemmentation and mvc arquitechture (also applied in previous projects), as well as other things listed below.
+A very simple blogging app built to experiment with Node.js and Express framework. Development wasn't focused on styling but in learning basic Node.js routing implementation and mvc architecture (also applied in previous projects), as well as other things listed below.
 
 ---
 
@@ -17,14 +17,12 @@ $ nodemon app.js
 **IMPLEMENTATIONS:**
 
 - Express framework
-- Lodash 
+- Lodash
 - Morgan
 - Nodemon
 - EJS view engine
-- MongoDB 
-- Mongoose 
+- MongoDB
+- Mongoose
   <br/><br/>
 
 **A SHORT VIDEO DEMONSTRATION:**
-
-
